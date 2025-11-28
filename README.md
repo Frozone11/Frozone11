@@ -6,7 +6,7 @@ I have completed my Bachelor’s degree in Robotics, and I’m currently pursuin
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hjalte Lillevik Frost ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hjalte_l.frost) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hjalte_lillevik@live.dk) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Hjalte Lillevik Frost ](https://www.facebook.com/hjalte.lillevikfrost/?locale=da_DK)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hjalte_l.frost) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hjalte_lillevik@live.dk) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
