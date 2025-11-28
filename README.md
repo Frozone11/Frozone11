@@ -1,5 +1,7 @@
-# 💫 About Me:
+# Right now:
 Improving data-driven manufacturing through OPC UA sensors, SQL data logging, and real-time KPI dashboards.
+🎓 Education
+I have completed my Bachelor’s degree in Robotics, and I’m currently pursuing a Master’s in Manufacturing Technology.
 
 
 ## 🌐 Socials:
